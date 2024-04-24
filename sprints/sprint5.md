@@ -4,7 +4,7 @@ Durante a Sprint 5, nosso grupo focou no desenvolvimento de dois principais comp
 
 ## Protótipo da Tela de Equipe da Fazenda Urbana
 
-Primeiramente, trabalhamos na criação de um protótipo para a tela de equipe da fazenda urbana. Esta tela é uma parte crucial do nosso sistema, pois permite que os usuários visualizem e gerenciem as equipes responsáveis pela manutenção e operação das fazendas urbanas. O protótipo foi projetado para ser intuitivo e fácil de usar, permitindo que os usuários adicionem, removam ou alterem membros da equipe conforme necessário.
+Primeiramente, trabalhamos na criação de um protótipo para a tela de equipe da fazenda urbana. Esta tela é uma parte crucial do nosso sistema, pois permite que os usuários visualizem as equipes responsáveis pela manutenção e operação das fazendas urbanas. O protótipo foi projetado para ser intuitivo e fácil de usar, permitindo que os usuários no momento listar membros e as equipes (que contém o nº de funcionários) deles.
 
 ## Diagrama de Classes do Sistema
 
