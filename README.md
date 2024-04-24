@@ -66,6 +66,8 @@ Nosso objetivo é promover a consciência ambiental, incentivar a autossuficiên
 
 - Seguir com as regulamentações da Segurança Alimentar e Lei Geral Proteção de Dados (LGPD).
 
+- Adicionar diagramas de casos de uso e de classes. Link de acesso aos diagramas: https://app.diagrams.net/#G1iikW8OeUE5p7LcMTwHEQ6zoPffqdV7cD#%7B%22pageId%22%3A%22zZso_dBgEHyHbhoQAy7b%22%7D
+
 ## Softwares/Recursos Utilizados
 
 - Scrum (Planejamento de Tarefas): https://github.com/users/Matheus2004a/projects/5
