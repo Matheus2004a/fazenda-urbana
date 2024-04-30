@@ -12,5 +12,4 @@ Em segundo lugar, desenvolvemos o diagrama de classes do nosso sistema. Este dia
 
 Estes foram os principais focos da nossa equipe durante a Sprint 5. Continuaremos a construir e aprimorar nosso sistema nas próximas sprints.
 
-![Diagrama de Classes do Sistema](../diagrama-classes-1.png)
-![Diagrama de Classes do Sistema](../diagrama-classes-2.png)
+![Diagrama de Classes do Sistema](../Diagramas_Fazenda_Urbana-Diagrama-Classes.png)
