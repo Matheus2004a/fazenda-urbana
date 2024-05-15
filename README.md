@@ -66,7 +66,7 @@ Nosso objetivo é promover a consciência ambiental, incentivar a autossuficiên
 
 - Seguir com as regulamentações da Segurança Alimentar e Lei Geral Proteção de Dados (LGPD).
 
-- Adicionar diagramas de casos de uso e de classes. Link de acesso aos diagramas: https://app.diagrams.net/#G1iikW8OeUE5p7LcMTwHEQ6zoPffqdV7cD#%7B%22pageId%22%3A%22zZso_dBgEHyHbhoQAy7b%22%7D
+- Adicionar diagramas de casos de uso e de classes. Link de acesso aos diagramas: https://drive.google.com/drive/u/0/folders/1XKjdGu_VejKZMHpvU9bnPrFFIdBt3uYE
 
 ## Softwares/Recursos Utilizados
 
