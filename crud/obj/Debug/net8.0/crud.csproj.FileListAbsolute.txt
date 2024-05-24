@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\bin\Debug\net8.0\crud.exe
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\bin\Debug\net8.0\crud.deps.json
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\bin\Debug\net8.0\crud.runtimeconfig.json
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\bin\Debug\net8.0\crud.dll
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\bin\Debug\net8.0\crud.pdb
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.sourcelink.json
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.dll
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\refint\crud.dll
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.pdb
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\crud.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\fazenda-urbana\crud\obj\Debug\net8.0\ref\crud.dll
