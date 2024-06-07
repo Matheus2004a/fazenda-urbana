@@ -1,30 +1,27 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 public class Program
 {
     public static Funcionario FazerLogin(List<Funcionario> funcionarios)
+{
+    Console.WriteLine("Login:");
+    Console.Write("Nome: ");
+    string nome = Console.ReadLine();
+
+    Console.Write("Senha: ");
+    string senha = Console.ReadLine();
+
+    foreach (var funcionario in funcionarios)
     {
-        Console.WriteLine("Login:");
-        Console.Write("ID: ");
-        if (!int.TryParse(Console.ReadLine(), out int id))
+        if (funcionario.Nome == nome && funcionario.Senha == senha)
         {
-            Console.WriteLine("Por favor, insira um ID válido.");
-            return null;
+            return funcionario;
         }
-
-        Console.Write("Senha: ");
-        string senha = Console.ReadLine();
-
-        foreach (var funcionario in funcionarios)
-        {
-            if (funcionario.Id == id && funcionario.Senha == senha)
-            {
-                return funcionario;
-            }
-        }
-        return null;
     }
+    return null;
+}
+
 
     public static void CadastrarFuncionario(List<Funcionario> funcionarios)
     {
